@@ -1,0 +1,50 @@
+.body{
+    width: 100%;
+    background-color: rgb(253, 253, 253);
+}
+
+.div{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    width:100%;
+    border-radius: 5px;
+}
+#result{
+    border: 1px solid black;
+    width: 100%;
+}
+#result tr{
+    border: 1px solid black;
+    text-align: center;
+}
+#result td{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: black;
+    background-color: lightgrey;
+}
+.form{
+    margin : 50px 50px 50px 50px;
+    padding: 0px 0px 500px 0px;
+    background-color: rgba(234, 246, 247, 0.877);
+    border-style: ridge;
+}
+.btndiv{
+    padding: 0px 225px 0px 575px;
+}
+.btn{
+background-color: rgb(27, 158, 60);
+color: white;
+padding: 10px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+#result th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}

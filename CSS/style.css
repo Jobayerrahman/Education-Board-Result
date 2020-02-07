@@ -1,0 +1,39 @@
+.form{
+    margin : 60px 250px 50px 250px;
+    padding: 30px 0px 50px 0px;
+    border-style: ridge;
+}
+.div{
+    margin: 0px 10px 0px 10px;
+    border-radius: 5px;
+}
+input[type=text], select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+input[type=password], select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 100%;
+    background-color:  rgb(95, 221, 36);
+    color: white;
+    padding: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover{
+    background-color:  rgb(15, 167, 15);
